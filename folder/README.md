@@ -1,8 +1,5 @@
-# Example Git Repository
+We are about to make a commit without best practices
 
-We are learning how to make commits.
-
-More more
-
-blabla
+hi
 goodbye
+docs
